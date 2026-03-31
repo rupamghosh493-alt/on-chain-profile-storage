@@ -7,6 +7,17 @@ A fully functional, decentralized Web3 application built on the Stellar Soroban 
 *   **Contract ID / Address:** `CCGI26FZKUOZBC5R7OLOZP6A7QP7AKT5VCD2342NIU5PIYEW7PLCM32X`
 *   **Network:** Stellar Testnet
 
+## Dashboard Overview
+
+<!-- This uses the second screenshot you provided -->
+![Dashboard Screenshot](./dashboard-2.png)
+
+## Stellar Lab Verification
+
+<!-- This uses the first screenshot you provided -->
+![Stellar Lab Screenshot](./stellar-lab-2.png)
+
+
 ## Features ✨
 
 *   **Non-Custodial Wallet Integration:** Securely connect and sign transactions using the [Freighter Browser Extension](https://www.freighter.app/).
